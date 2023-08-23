@@ -1,0 +1,11 @@
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\bin\Debug\CyberpunkCombatTracker.exe.config
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\bin\Debug\CyberpunkCombatTracker.exe
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\bin\Debug\CyberpunkCombatTracker.pdb
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.MainControllerForm.resources
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.Properties.Resources.resources
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.SubController.resources
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.csproj.GenerateResource.cache
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.csproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.exe
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.pdb
+C:\Users\Collin\source\repos\CyberpunkCombatTracker\CyberpunkCombatTracker\obj\Debug\CyberpunkCombatTracker.csproj.AssemblyReference.cache
